@@ -1,0 +1,4 @@
+In cron there's a bandit22 related file, it'll refer to another file which you cat, which will refer to another file im /tmp/ which you cat, yielding you the pass.
+cat /etc/cron.d/cronjob_bandit22 
+cat /usr/bin/cronjob_bandit22.sh
+Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI

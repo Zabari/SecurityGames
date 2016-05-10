@@ -1,0 +1,5 @@
+for x in $(ls); do cd $x; pwd; ls -al | grep 1033; cd ..; done
+or find . -size 1033
+cat maybehere07/.file2
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+

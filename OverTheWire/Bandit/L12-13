@@ -1,0 +1,7 @@
+xxd -r data.txt
+using file, you see that the file created by the reverse hexdump is a gzip
+inside it there's another archive, and another and another and another etc.
+they are either gzip, tar, or bzip
+gzip needs to have a .gz so rename accordingly
+gunzip, bunzip2, and tar -xvf should be used
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL

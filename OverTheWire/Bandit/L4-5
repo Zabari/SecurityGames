@@ -1,0 +1,4 @@
+for x in $(ls); do less ./$x; done
+file 07 is the only one that doesn't warn it's binary
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
