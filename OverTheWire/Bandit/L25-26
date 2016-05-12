@@ -1,0 +1,10 @@
+I couldn't get this one myself
+grep "bandit26" /etc/passwd
+cat /usr/bin/showtext
+now we see that the person's shell automatically goes into more, and then exits.
+So we gotta explot something about that.
+well damn them, the key is to make the terminal window really small so more stays open.
+ssh -i bandit26.sshkey bandit26@localhost
+v
+:e /etc/bandit_pass/bandit26
+5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
