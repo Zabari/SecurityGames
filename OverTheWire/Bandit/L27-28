@@ -1,0 +1,4 @@
+git clone ssh://bandit27-git@localhost/home/bandit27-git/repo
+then
+cd repo; less README
+0ef186ac70e04ea33b4c1853d2526fa2

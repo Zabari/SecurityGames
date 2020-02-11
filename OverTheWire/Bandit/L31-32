@@ -1,0 +1,8 @@
+git clone ssh://bandit31-git@localhost/home/bandit31-git/repo
+then
+cd repo
+echo "May I come in?" > key.txt
+git add key.txt
+git commit -m "hey"
+git push origin master
+56a9bf19c63d650ce78e6ec0354ee45e

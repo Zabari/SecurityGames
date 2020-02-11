@@ -1,0 +1,6 @@
+git clone ssh://bandit28-git@localhost/home/bandit28-git/repo
+then
+cd repo
+git log -p
+there are like three commits, and one of them will have the password
+bbc96594b4e001778eee9975372716b2

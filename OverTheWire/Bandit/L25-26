@@ -8,3 +8,7 @@ ssh -i bandit26.sshkey bandit26@localhost
 v
 :e /etc/bandit_pass/bandit26
 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
+After you get the password, you can do something like
+:set shell=/bin/bash
+:!bash
+then you'll have a shell

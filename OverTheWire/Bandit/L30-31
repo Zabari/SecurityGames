@@ -1,0 +1,7 @@
+git clone ssh://bandit30-git@localhost/home/bandit30-git/repo
+then
+cd repo
+git tag
+you'll see secret shows up
+git show secret
+47e603bb428404d265f59c42920d81e5

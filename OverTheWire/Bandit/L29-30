@@ -1,0 +1,6 @@
+git clone ssh://bandit29-git@localhost/home/bandit29-git/repo
+then
+cd repo
+git checkout -b dev origin/dev
+less README.md
+5b90576bedb2cc04c86a9e924ce42faf
